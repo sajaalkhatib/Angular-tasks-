@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:59643",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\Orange\\source\\repos\\sajatask\\sajatask.Server\\..\\sajatask.client",
+"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.Server\\..\\sajatask.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

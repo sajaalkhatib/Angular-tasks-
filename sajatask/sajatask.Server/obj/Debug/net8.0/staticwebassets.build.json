@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "o70US2SdFcukUi9+nScSIE5zch84Cs03qhoyVnoXEXw=",
+  "Hash": "Zu1Ck+JsTBWo9vmH6wo9jlulSnaqtNnM9pAjEYLA7IA=",
   "Source": "sajatask.Server",
   "BasePath": "_content/sajatask.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Orange\\source\\repos\\sajatask\\sajatask.client\\sajatask.client.esproj",
+      "Identity": "C:\\Users\\Orange\\Desktop\\angular\\Angular-tasks-\\sajatask\\sajatask.client\\sajatask.client.esproj",
       "Version": 2,
       "Source": "sajatask.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

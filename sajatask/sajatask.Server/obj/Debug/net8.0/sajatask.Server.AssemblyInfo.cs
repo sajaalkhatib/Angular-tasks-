@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sajatask.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ca3d984778b1caae94619a88e274b745c21eeb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("sajatask.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sajatask.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
