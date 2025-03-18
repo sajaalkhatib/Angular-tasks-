@@ -1,6 +1,7 @@
 import { HttpClientModule } from '@angular/common/http';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { FormsModule } from '@angular/forms'; // Import FormsModule once
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -20,11 +21,12 @@ import { ProductDetailsComponent } from './product-details/product-details.compo
     ProductComponent,
     CategoryComponent,
     ProductDetailsComponent,
-    
   ],
   imports: [
-    BrowserModule, HttpClientModule,
-    AppRoutingModule
+    BrowserModule,
+    HttpClientModule,
+    AppRoutingModule,
+    FormsModule // Keeping only one instance
   ],
   providers: [],
   bootstrap: [AppComponent]

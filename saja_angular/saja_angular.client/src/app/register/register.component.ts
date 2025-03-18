@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { ApiService } from '../servies_api/api.service';
 
 @Component({
   selector: 'app-register',
@@ -7,5 +8,19 @@ import { Component } from '@angular/core';
   styleUrl: './register.component.css'
 })
 export class RegisterComponent {
+
+  constructor(private http: ApiService) {
+  }
+
+  ngOnInit() { }
+
+
+  onSubmitData(data: any) {
+    this.http.addUser(data).subscribe(() => {
+      alert(
+        "add Users")
+
+    })
+  }
 
 }

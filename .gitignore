@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/saja_angular/.vs/saja_angular/v17/.suo
+/saja_angular/.vs/saja_angular/FileContentIndex/22fb41ba-da59-449f-a505-711d0e69a043.vsidx
+/saja_angular/.vs/saja_angular/FileContentIndex/384de8b2-a084-47fe-b2b1-42f7e83186f6.vsidx
+/saja_angular/.vs/saja_angular/FileContentIndex/40b4ba4d-66db-434c-9e10-caf6dcb1165f.vsidx
+/saja_angular/.vs/saja_angular/FileContentIndex/60b1841f-5068-4423-9513-08546504e9ea.vsidx
+/saja_angular/.vs/saja_angular/FileContentIndex/f2451d96-777f-454e-ae19-335bf4aef079.vsidx
+/sajatask/.vs/sajatask/v17/.futdcache.v2
+/sajatask/.vs/sajatask/v17/.suo
+/sajatask/.vs/sajatask/v17/DocumentLayout.backup.json
+/sajatask/.vs/sajatask/v17/DocumentLayout.json
+/saja_angular/.vs/ProjectEvaluation/saja_angular.metadata.v9.bin
+/saja_angular/.vs/ProjectEvaluation/saja_angular.projects.v9.bin
+/saja_angular/.vs/ProjectEvaluation/saja_angular.strings.v9.bin
+/saja_angular/.vs/saja_angular/DesignTimeBuild/.dtbcache.v2
+/saja_angular/.vs/saja_angular/FileContentIndex/1f8861f8-4284-4f47-9443-94f127724a06.vsidx
+/saja_angular/.vs/saja_angular/FileContentIndex/2ba583c9-41ba-4ed2-a9d9-f6fbccb9329c.vsidx
+/saja_angular/.vs/saja_angular/FileContentIndex/b6c82234-b03e-41b5-b4fc-ab03fac5c20c.vsidx
+/saja_angular/.vs/saja_angular/FileContentIndex/c4626a46-96de-4597-9ee4-ac025ecbdfb6.vsidx
+/saja_angular/.vs/saja_angular/FileContentIndex/ec6ed495-ea14-45c7-a86c-2d689969e90c.vsidx
+/saja_angular/.vs/saja_angular/v17/.futdcache.v2
+/saja_angular/.vs/saja_angular/v17/DocumentLayout.backup.json
+/saja_angular/.vs/saja_angular/v17/DocumentLayout.json
